@@ -1,0 +1,81 @@
+{
+    "Analysis": "Based on your measurements, goals, and doctor's recommendations, I recommend a workout regimen that includes a combination of cardiovascular exercises and strength training. This will help you lose weight, improve your overall fitness, and achieve your goal of losing 10 kg in 5 months.",
+    "Workouts": [
+      {
+        "Day": "Monday",
+        "Exercises": [
+          {
+            "Exercise": "Cardio (e.g., treadmill, cycling)",
+            "Sets": "3",
+            "Reps": "20 minutes"
+          },
+          {
+            "Exercise": "Dumbbell Squats",
+            "Sets": "3",
+            "Reps": "12-15"
+          },
+          {
+            "Exercise": "Push-ups",
+            "Sets": "3",
+            "Reps": "10-12"
+          },
+          {
+            "Exercise": "Plank",
+            "Sets": "3",
+            "Reps": "30-60 seconds"
+          }
+        ]
+      },
+      {
+        "Day": "Wednesday",
+        "Exercises": [
+          {
+            "Exercise": "Cardio (e.g., elliptical, swimming)",
+            "Sets": "3",
+            "Reps": "20 minutes"
+          },
+          {
+            "Exercise": "Dumbbell Lunges",
+            "Sets": "3",
+            "Reps": "12-15"
+          },
+          {
+            "Exercise": "Bent-over Rows",
+            "Sets": "3",
+            "Reps": "10-12"
+          },
+          {
+            "Exercise": "Russian Twists",
+            "Sets": "3",
+            "Reps": "10-12"
+          }
+        ]
+      },
+      {
+        "Day": "Friday",
+        "Exercises": [
+          {
+            "Exercise": "Cardio (e.g., jogging, rowing)",
+            "Sets": "3",
+            "Reps": "20 minutes"
+          },
+          {
+            "Exercise": "Dumbbell Shoulder Press",
+            "Sets": "3",
+            "Reps": "10-12"
+          },
+          {
+            "Exercise": "Lat Pulldowns",
+            "Sets": "3",
+            "Reps": "10-12"
+          },
+          {
+            "Exercise": "Crunches",
+            "Sets": "3",
+            "Reps": "15-20"
+          }
+        ]
+      }
+    ],
+    "Cost": 0.0025
+  }

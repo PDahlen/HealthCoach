@@ -1,0 +1,182 @@
+{
+  "Analysis": "Based on your measurements and goals, it is recommended to follow a balanced vegan diet with a calorie deficit to achieve weight loss.",
+  "Recommendations": "Aim for a daily calorie intake of around 1500-1800 calories, spread across 3 main meals and 2-3 snacks. Include a variety of plant-based protein sources, whole grains, fruits, vegetables, and healthy fats.",
+  "Mealplan": {
+    "Week 1": {
+      "Monday": [
+        "Breakfast: Overnight oats with almond milk, chia seeds, and mixed berries",
+        "Lunch: Quinoa salad with roasted vegetables and chickpeas",
+        "Dinner: Lentil curry with brown rice",
+        "Snacks: Hummus with carrot sticks, mixed nuts"
+      ],
+      "Tuesday": [
+        "Breakfast: Vegan protein smoothie with spinach, banana, almond milk, and hemp seeds",
+        "Lunch: Mixed bean salad with avocado and quinoa",
+        "Dinner: Stir-fried tofu with vegetables and brown rice",
+        "Snacks: Apple slices with almond butter, roasted chickpeas"
+      ],
+      "Wednesday": [
+        "Breakfast: Whole grain toast with mashed avocado and tomato slices",
+        "Lunch: Vegan lentil soup with a side of whole grain bread",
+        "Dinner: Baked falafel with quinoa and roasted vegetables",
+        "Snacks: Vegan protein bar, cucumber slices with hummus"
+      ],
+      "Thursday": [
+        "Breakfast: Vegan protein pancakes with fresh berries",
+        "Lunch: Chickpea salad wrap with whole grain tortilla",
+        "Dinner: Vegan chili with kidney beans and quinoa",
+        "Snacks: Mixed fruit salad, rice cakes with almond butter"
+      ],
+      "Friday": [
+        "Breakfast: Tofu scramble with vegetables and whole grain toast",
+        "Lunch: Vegan sushi rolls with brown rice, avocado, and cucumber",
+        "Dinner: Spaghetti with marinara sauce and lentil meatballs",
+        "Snacks: Vegan yogurt with granola, roasted edamame"
+      ],
+      "Saturday": [
+        "Breakfast: Vegan protein smoothie bowl topped with granola and mixed fruits",
+        "Lunch: Quinoa and black bean stuffed bell peppers",
+        "Dinner: Vegan stir-fried noodles with tofu and vegetables",
+        "Snacks: Rice crackers with guacamole, mixed nuts"
+      ],
+      "Sunday": [
+        "Breakfast: Vegan breakfast burrito with tofu scramble, black beans, and salsa",
+        "Lunch: Vegan chickpea and vegetable curry with brown rice",
+        "Dinner: Vegan shepherd's pie with lentils and mashed sweet potatoes",
+        "Snacks: Vegan protein shake, carrot sticks with hummus"
+      ]
+    },
+    "Week 2": {
+      "Monday": [
+        "Breakfast: Vegan protein pancakes with fresh berries",
+        "Lunch: Quinoa salad with roasted vegetables and chickpeas",
+        "Dinner: Lentil curry with brown rice",
+        "Snacks: Hummus with carrot sticks, mixed nuts"
+      ],
+      "Tuesday": [
+        "Breakfast: Vegan protein smoothie with spinach, banana, almond milk, and hemp seeds",
+        "Lunch: Mixed bean salad with avocado and quinoa",
+        "Dinner: Stir-fried tofu with vegetables and brown rice",
+        "Snacks: Apple slices with almond butter, roasted chickpeas"
+      ],
+      "Wednesday": [
+        "Breakfast: Whole grain toast with mashed avocado and tomato slices",
+        "Lunch: Vegan lentil soup with a side of whole grain bread",
+        "Dinner: Baked falafel with quinoa and roasted vegetables",
+        "Snacks: Vegan protein bar, cucumber slices with hummus"
+      ],
+      "Thursday": [
+        "Breakfast: Overnight oats with almond milk, chia seeds, and mixed berries",
+        "Lunch: Chickpea salad wrap with whole grain tortilla",
+        "Dinner: Vegan chili with kidney beans and quinoa",
+        "Snacks: Mixed fruit salad, rice cakes with almond butter"
+      ],
+      "Friday": [
+        "Breakfast: Tofu scramble with vegetables and whole grain toast",
+        "Lunch: Vegan sushi rolls with brown rice, avocado, and cucumber",
+        "Dinner: Spaghetti with marinara sauce and lentil meatballs",
+        "Snacks: Vegan yogurt with granola, roasted edamame"
+      ],
+      "Saturday": [
+        "Breakfast: Vegan protein smoothie bowl topped with granola and mixed fruits",
+        "Lunch: Quinoa and black bean stuffed bell peppers",
+        "Dinner: Vegan stir-fried noodles with tofu and vegetables",
+        "Snacks: Rice crackers with guacamole, mixed nuts"
+      ],
+      "Sunday": [
+        "Breakfast: Vegan breakfast burrito with tofu scramble, black beans, and salsa",
+        "Lunch: Vegan chickpea and vegetable curry with brown rice",
+        "Dinner: Vegan shepherd's pie with lentils and mashed sweet potatoes",
+        "Snacks: Vegan protein shake, carrot sticks with hummus"
+      ]
+    },
+    "Week 3": {
+      "Monday": [
+        "Breakfast: Whole grain toast with mashed avocado and tomato slices",
+        "Lunch: Quinoa salad with roasted vegetables and chickpeas",
+        "Dinner: Lentil curry with brown rice",
+        "Snacks: Hummus with carrot sticks, mixed nuts"
+      ],
+      "Tuesday": [
+        "Breakfast: Vegan protein smoothie with spinach, banana, almond milk, and hemp seeds",
+        "Lunch: Mixed bean salad with avocado and quinoa",
+        "Dinner: Stir-fried tofu with vegetables and brown rice",
+        "Snacks: Apple slices with almond butter, roasted chickpeas"
+      ],
+      "Wednesday": [
+        "Breakfast: Overnight oats with almond milk, chia seeds, and mixed berries",
+        "Lunch: Vegan lentil soup with a side of whole grain bread",
+        "Dinner: Baked falafel with quinoa and roasted vegetables",
+        "Snacks: Vegan protein bar, cucumber slices with hummus"
+      ],
+      "Thursday": [
+        "Breakfast: Vegan protein pancakes with fresh berries",
+        "Lunch: Chickpea salad wrap with whole grain tortilla",
+        "Dinner: Vegan chili with kidney beans and quinoa",
+        "Snacks: Mixed fruit salad, rice cakes with almond butter"
+      ],
+      "Friday": [
+        "Breakfast: Tofu scramble with vegetables and whole grain toast",
+        "Lunch: Vegan sushi rolls with brown rice, avocado, and cucumber",
+        "Dinner: Spaghetti with marinara sauce and lentil meatballs",
+        "Snacks: Vegan yogurt with granola, roasted edamame"
+      ],
+      "Saturday": [
+        "Breakfast: Vegan protein smoothie bowl topped with granola and mixed fruits",
+        "Lunch: Quinoa and black bean stuffed bell peppers",
+        "Dinner: Vegan stir-fried noodles with tofu and vegetables",
+        "Snacks: Rice crackers with guacamole, mixed nuts"
+      ],
+      "Sunday": [
+        "Breakfast: Vegan breakfast burrito with tofu scramble, black beans, and salsa",
+        "Lunch: Vegan chickpea and vegetable curry with brown rice",
+        "Dinner: Vegan shepherd's pie with lentils and mashed sweet potatoes",
+        "Snacks: Vegan protein shake, carrot sticks with hummus"
+      ]
+    },
+    "Week 4": {
+      "Monday": [
+        "Breakfast: Vegan protein smoothie with spinach, banana, almond milk, and hemp seeds",
+        "Lunch: Quinoa salad with roasted vegetables and chickpeas",
+        "Dinner: Lentil curry with brown rice",
+        "Snacks: Hummus with carrot sticks, mixed nuts"
+      ],
+      "Tuesday": [
+        "Breakfast: Whole grain toast with mashed avocado and tomato slices",
+        "Lunch: Mixed bean salad with avocado and quinoa",
+        "Dinner: Stir-fried tofu with vegetables and brown rice",
+        "Snacks: Apple slices with almond butter, roasted chickpeas"
+      ],
+      "Wednesday": [
+        "Breakfast: Vegan protein pancakes with fresh berries",
+        "Lunch: Vegan lentil soup with a side of whole grain bread",
+        "Dinner: Baked falafel with quinoa and roasted vegetables",
+        "Snacks: Vegan protein bar, cucumber slices with hummus"
+      ],
+      "Thursday": [
+        "Breakfast: Overnight oats with almond milk, chia seeds, and mixed berries",
+        "Lunch: Chickpea salad wrap with whole grain tortilla",
+        "Dinner: Vegan chili with kidney beans and quinoa",
+        "Snacks: Mixed fruit salad, rice cakes with almond butter"
+      ],
+      "Friday": [
+        "Breakfast: Tofu scramble with vegetables and whole grain toast",
+        "Lunch: Vegan sushi rolls with brown rice, avocado, and cucumber",
+        "Dinner: Spaghetti with marinara sauce and lentil meatballs",
+        "Snacks: Vegan yogurt with granola, roasted edamame"
+      ],
+      "Saturday": [
+        "Breakfast: Vegan protein smoothie bowl topped with granola and mixed fruits",
+        "Lunch: Quinoa and black bean stuffed bell peppers",
+        "Dinner: Vegan stir-fried noodles with tofu and vegetables",
+        "Snacks: Rice crackers with guacamole, mixed nuts"
+      ],
+      "Sunday": [
+        "Breakfast: Vegan breakfast burrito with tofu scramble, black beans, and salsa",
+        "Lunch: Vegan chickpea and vegetable curry with brown rice",
+        "Dinner: Vegan shepherd's pie with lentils and mashed sweet potatoes",
+        "Snacks: Vegan protein shake, carrot sticks with hummus"
+      ]
+    }
+  }
+}

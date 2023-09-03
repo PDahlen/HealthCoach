@@ -1,0 +1,162 @@
+{
+  "Analysis": "Based on your measurements and goals, it is recommended to focus on a balanced diet that includes lean protein sources, plenty of vegetables, whole grains, and healthy fats. It is important to manage your diabetes and allergies by avoiding foods that may cause spikes in blood sugar or allergic reactions.",
+  "Recommendations": "A suitable diet for you would be a pescetarian meal plan that includes 3 main meals and 2 snacks per day. It is recommended to spread your meals evenly throughout the day and include a variety of nutrient-dense foods. Fasting or any other methods should be discussed with your healthcare provider to ensure they are safe for your specific condition.",
+  "Mealplan": [
+    {
+      "Week 1": {
+        "Monday": [
+          "Breakfast: Oatmeal with berries and almond milk",
+          "Snack: Greek yogurt with mixed nuts",
+          "Lunch: Quinoa salad with roasted vegetables",
+          "Snack: Carrot sticks with hummus",
+          "Dinner: Grilled salmon with steamed broccoli and quinoa"
+        ],
+        "Tuesday": [
+          "Breakfast: Scrambled tofu with spinach and whole grain toast",
+          "Snack: Apple slices with almond butter",
+          "Lunch: Lentil soup with a side salad",
+          "Snack: Celery sticks with peanut butter substitute",
+          "Dinner: Baked cod with roasted Brussels sprouts and brown rice"
+        ],
+        "Wednesday": [
+          "Breakfast: Smoothie with spinach, banana, almond milk, and chia seeds",
+          "Snack: Mixed berries with a handful of almonds",
+          "Lunch: Chickpea salad with mixed greens",
+          "Snack: Rice cakes with avocado",
+          "Dinner: Grilled shrimp with zucchini noodles and tomato sauce"
+        ],
+        "Thursday": [
+          "Breakfast: Whole grain cereal with almond milk and sliced banana",
+          "Snack: Trail mix with dried fruits and seeds",
+          "Lunch: Vegetable stir-fry with tofu",
+          "Snack: Cucumber slices with tahini",
+          "Dinner: Baked halibut with roasted asparagus and quinoa"
+        ],
+        "Friday": [
+          "Breakfast: Veggie omelette with whole grain toast",
+          "Snack: Orange slices with a handful of walnuts",
+          "Lunch: Black bean and corn salad with avocado",
+          "Snack: Edamame beans",
+          "Dinner: Grilled vegetable skewers with brown rice"
+        ]
+      }
+    },
+    {
+      "Week 2": {
+        "Monday": [
+          "Breakfast: Overnight chia pudding with mixed berries",
+          "Snack: Greek yogurt with sliced almonds",
+          "Lunch: Spinach and feta stuffed bell peppers",
+          "Snack: Cherry tomatoes with mozzarella cheese substitute",
+          "Dinner: Baked trout with roasted cauliflower and quinoa"
+        ],
+        "Tuesday": [
+          "Breakfast: Whole grain pancakes with fresh fruit toppings",
+          "Snack: Apple slices with cashew butter",
+          "Lunch: Lentil and vegetable curry with brown rice",
+          "Snack: Celery sticks with sunflower seed butter",
+          "Dinner: Grilled swordfish with roasted sweet potatoes and green beans"
+        ],
+        "Wednesday": [
+          "Breakfast: Avocado toast with cherry tomatoes",
+          "Snack: Mixed berries with a handful of pistachios",
+          "Lunch: Quinoa and black bean stuffed bell peppers",
+          "Snack: Rice cakes with almond butter",
+          "Dinner: Baked cod with roasted Brussels sprouts and quinoa"
+        ],
+        "Thursday": [
+          "Breakfast: Smoothie bowl with spinach, banana, almond milk, and toppings",
+          "Snack: Trail mix with dried fruits and pumpkin seeds",
+          "Lunch: Chickpea and vegetable curry with brown rice",
+          "Snack: Cucumber slices with hummus",
+          "Dinner: Grilled shrimp with zucchini noodles and tomato sauce"
+        ],
+        "Friday": [
+          "Breakfast: Veggie scramble with whole grain toast",
+          "Snack: Orange slices with a handful of cashews",
+          "Lunch: Mediterranean quinoa salad with olives and feta cheese substitute",
+          "Snack: Edamame beans",
+          "Dinner: Grilled vegetable skewers with brown rice"
+        ]
+      }
+    },
+    {
+      "Week 3": {
+        "Monday": [
+          "Breakfast: Oatmeal with mixed berries and almond milk",
+          "Snack: Greek yogurt with mixed nuts",
+          "Lunch: Quinoa and roasted vegetable wrap",
+          "Snack: Carrot sticks with hummus",
+          "Dinner: Grilled salmon with steamed broccoli and quinoa"
+        ],
+        "Tuesday": [
+          "Breakfast: Scrambled tofu with spinach and whole grain toast",
+          "Snack: Apple slices with almond butter",
+          "Lunch: Lentil and vegetable soup",
+          "Snack: Celery sticks with peanut butter substitute",
+          "Dinner: Baked cod with roasted Brussels sprouts and brown rice"
+        ],
+        "Wednesday": [
+          "Breakfast: Smoothie with spinach, banana, almond milk, and chia seeds",
+          "Snack: Mixed berries with a handful of almonds",
+          "Lunch: Chickpea and mixed greens salad",
+          "Snack: Rice cakes with avocado",
+          "Dinner: Grilled shrimp with zucchini noodles and tomato sauce"
+        ],
+        "Thursday": [
+          "Breakfast: Whole grain cereal with almond milk and sliced banana",
+          "Snack: Trail mix with dried fruits and seeds",
+          "Lunch: Vegetable stir-fry with tofu",
+          "Snack: Cucumber slices with tahini",
+          "Dinner: Baked halibut with roasted asparagus and quinoa"
+        ],
+        "Friday": [
+          "Breakfast: Veggie omelette with whole grain toast",
+          "Snack: Orange slices with a handful of walnuts",
+          "Lunch: Black bean and corn salad with avocado",
+          "Snack: Edamame beans",
+          "Dinner: Grilled vegetable skewers with brown rice"
+        ]
+      }
+    },
+    {
+      "Week 4": {
+        "Monday": [
+          "Breakfast: Overnight chia pudding with mixed berries",
+          "Snack: Greek yogurt with sliced almonds",
+          "Lunch: Spinach and feta stuffed bell peppers",
+          "Snack: Cherry tomatoes with mozzarella cheese substitute",
+          "Dinner: Baked trout with roasted cauliflower and quinoa"
+        ],
+        "Tuesday": [
+          "Breakfast: Whole grain pancakes with fresh fruit toppings",
+          "Snack: Apple slices with cashew butter",
+          "Lunch: Lentil and vegetable curry with brown rice",
+          "Snack: Celery sticks with sunflower seed butter",
+          "Dinner: Grilled swordfish with roasted sweet potatoes and green beans"
+        ],
+        "Wednesday": [
+          "Breakfast: Avocado toast with cherry tomatoes",
+          "Snack: Mixed berries with a handful of pistachios",
+          "Lunch: Quinoa and black bean stuffed bell peppers",
+          "Snack: Rice cakes with almond butter",
+          "Dinner: Baked cod with roasted Brussels sprouts and quinoa"
+        ],
+        "Thursday": [
+          "Breakfast: Smoothie bowl with spinach, banana, almond milk, and toppings",
+          "Snack: Trail mix with dried fruits and pumpkin seeds",
+          "Lunch: Chickpea and vegetable curry with brown rice",
+          "Snack: Cucumber slices with hummus",
+          "Dinner: Grilled shrimp with zucchini noodles and tomato sauce"
+        ],
+        "Friday": [
+          "Breakfast: Veggie scramble with whole grain toast",
+          "Snack: Orange slices with a handful of cashews",
+          "Lunch: Mediterranean quinoa salad with olives and feta cheese substitute",
+          "Snack: Edamame beans",
+          "Dinner: Grilled vegetable skewers with brown rice"
+        ]
+      }
+    }
+  ]
+}

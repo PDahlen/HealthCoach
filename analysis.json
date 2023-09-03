@@ -1,0 +1,334 @@
+{
+  "Analysis": "Based on your measurements, goals, and doctor's recommendations, it is recommended to adopt a balanced diet and engage in regular exercise to improve your weight. To lower your cholesterol level, reduce intake of saturated fats and cholesterol-rich foods, and increase consumption of fruits, vegetables, and whole grains.",
+  "Recommendations": "It is recommended to follow a balanced diet that includes a variety of fruits, vegetables, whole grains, lean proteins, and healthy fats. It is not necessary to fast or follow any specific diet method. Aim for 3 main meals and 2-3 small snacks per day.",
+  "Mealplan": [
+    {
+      "Week": 1,
+      "Days": [
+        {
+          "Day": "Monday",
+          "Meals": [
+            "Breakfast: Oatmeal with berries and a side of Greek yogurt",
+            "Snack: Apple slices with almond butter",
+            "Lunch: Grilled chicken salad with mixed greens, tomatoes, cucumbers, and balsamic vinaigrette",
+            "Snack: Carrot sticks with hummus",
+            "Dinner: Baked salmon with quinoa and steamed broccoli",
+            "Snack: Mixed nuts"
+          ]
+        },
+        {
+          "Day": "Tuesday",
+          "Meals": [
+            "Breakfast: Vegetable omelette with whole wheat toast",
+            "Snack: Greek yogurt with sliced almonds",
+            "Lunch: Turkey wrap with whole wheat tortilla, lettuce, tomato, and mustard",
+            "Snack: Celery sticks with peanut butter",
+            "Dinner: Grilled shrimp with brown rice and roasted asparagus",
+            "Snack: Cottage cheese with berries"
+          ]
+        },
+        {
+          "Day": "Wednesday",
+          "Meals": [
+            "Breakfast: Smoothie with spinach, banana, almond milk, and protein powder",
+            "Snack: Hard-boiled eggs",
+            "Lunch: Quinoa salad with mixed vegetables and lemon vinaigrette",
+            "Snack: Edamame",
+            "Dinner: Baked chicken breast with sweet potato and steamed green beans",
+            "Snack: Greek yogurt with honey"
+          ]
+        },
+        {
+          "Day": "Thursday",
+          "Meals": [
+            "Breakfast: Whole grain cereal with milk and sliced strawberries",
+            "Snack: Trail mix",
+            "Lunch: Lentil soup with whole wheat bread",
+            "Snack: Orange slices",
+            "Dinner: Grilled steak with roasted potatoes and sautéed spinach",
+            "Snack: Protein shake"
+          ]
+        },
+        {
+          "Day": "Friday",
+          "Meals": [
+            "Breakfast: Avocado toast with poached eggs",
+            "Snack: Mixed berries",
+            "Lunch: Chickpea salad with mixed greens, tomatoes, cucumbers, and lemon tahini dressing",
+            "Snack: Rice cakes with almond butter",
+            "Dinner: Baked cod with quinoa and roasted Brussels sprouts",
+            "Snack: Greek yogurt with granola"
+          ]
+        },
+        {
+          "Day": "Saturday",
+          "Meals": [
+            "Breakfast: Whole wheat pancakes with fresh fruit and a side of Greek yogurt",
+            "Snack: Carrot sticks with hummus",
+            "Lunch: Grilled chicken wrap with whole wheat tortilla, lettuce, tomato, and avocado",
+            "Snack: Mixed nuts",
+            "Dinner: Stir-fried tofu with brown rice and mixed vegetables",
+            "Snack: Cottage cheese with berries"
+          ]
+        },
+        {
+          "Day": "Sunday",
+          "Meals": [
+            "Breakfast: Vegetable scramble with whole wheat toast",
+            "Snack: Greek yogurt with sliced almonds",
+            "Lunch: Quinoa bowl with roasted vegetables, chickpeas, and tahini dressing",
+            "Snack: Celery sticks with peanut butter",
+            "Dinner: Grilled salmon with quinoa and steamed asparagus",
+            "Snack: Hard-boiled eggs"
+          ]
+        }
+      ]
+    },
+    {
+      "Week": 2,
+      "Days": [
+        {
+          "Day": "Monday",
+          "Meals": [
+            "Breakfast: Oatmeal with berries and a side of Greek yogurt",
+            "Snack: Apple slices with almond butter",
+            "Lunch: Grilled chicken salad with mixed greens, tomatoes, cucumbers, and balsamic vinaigrette",
+            "Snack: Carrot sticks with hummus",
+            "Dinner: Baked salmon with quinoa and steamed broccoli",
+            "Snack: Mixed nuts"
+          ]
+        },
+        {
+          "Day": "Tuesday",
+          "Meals": [
+            "Breakfast: Vegetable omelette with whole wheat toast",
+            "Snack: Greek yogurt with sliced almonds",
+            "Lunch: Turkey wrap with whole wheat tortilla, lettuce, tomato, and mustard",
+            "Snack: Celery sticks with peanut butter",
+            "Dinner: Grilled shrimp with brown rice and roasted asparagus",
+            "Snack: Cottage cheese with berries"
+          ]
+        },
+        {
+          "Day": "Wednesday",
+          "Meals": [
+            "Breakfast: Smoothie with spinach, banana, almond milk, and protein powder",
+            "Snack: Hard-boiled eggs",
+            "Lunch: Quinoa salad with mixed vegetables and lemon vinaigrette",
+            "Snack: Edamame",
+            "Dinner: Baked chicken breast with sweet potato and steamed green beans",
+            "Snack: Greek yogurt with honey"
+          ]
+        },
+        {
+          "Day": "Thursday",
+          "Meals": [
+            "Breakfast: Whole grain cereal with milk and sliced strawberries",
+            "Snack: Trail mix",
+            "Lunch: Lentil soup with whole wheat bread",
+            "Snack: Orange slices",
+            "Dinner: Grilled steak with roasted potatoes and sautéed spinach",
+            "Snack: Protein shake"
+          ]
+        },
+        {
+          "Day": "Friday",
+          "Meals": [
+            "Breakfast: Avocado toast with poached eggs",
+            "Snack: Mixed berries",
+            "Lunch: Chickpea salad with mixed greens, tomatoes, cucumbers, and lemon tahini dressing",
+            "Snack: Rice cakes with almond butter",
+            "Dinner: Baked cod with quinoa and roasted Brussels sprouts",
+            "Snack: Greek yogurt with granola"
+          ]
+        },
+        {
+          "Day": "Saturday",
+          "Meals": [
+            "Breakfast: Whole wheat pancakes with fresh fruit and a side of Greek yogurt",
+            "Snack: Carrot sticks with hummus",
+            "Lunch: Grilled chicken wrap with whole wheat tortilla, lettuce, tomato, and avocado",
+            "Snack: Mixed nuts",
+            "Dinner: Stir-fried tofu with brown rice and mixed vegetables",
+            "Snack: Cottage cheese with berries"
+          ]
+        },
+        {
+          "Day": "Sunday",
+          "Meals": [
+            "Breakfast: Vegetable scramble with whole wheat toast",
+            "Snack: Greek yogurt with sliced almonds",
+            "Lunch: Quinoa bowl with roasted vegetables, chickpeas, and tahini dressing",
+            "Snack: Celery sticks with peanut butter",
+            "Dinner: Grilled salmon with quinoa and steamed asparagus",
+            "Snack: Hard-boiled eggs"
+          ]
+        }
+      ]
+    },
+    {
+      "Week": 3,
+      "Days": [
+        {
+          "Day": "Monday",
+          "Meals": [
+            "Breakfast: Oatmeal with berries and a side of Greek yogurt",
+            "Snack: Apple slices with almond butter",
+            "Lunch: Grilled chicken salad with mixed greens, tomatoes, cucumbers, and balsamic vinaigrette",
+            "Snack: Carrot sticks with hummus",
+            "Dinner: Baked salmon with quinoa and steamed broccoli",
+            "Snack: Mixed nuts"
+          ]
+        },
+        {
+          "Day": "Tuesday",
+          "Meals": [
+            "Breakfast: Vegetable omelette with whole wheat toast",
+            "Snack: Greek yogurt with sliced almonds",
+            "Lunch: Turkey wrap with whole wheat tortilla, lettuce, tomato, and mustard",
+            "Snack: Celery sticks with peanut butter",
+            "Dinner: Grilled shrimp with brown rice and roasted asparagus",
+            "Snack: Cottage cheese with berries"
+          ]
+        },
+        {
+          "Day": "Wednesday",
+          "Meals": [
+            "Breakfast: Smoothie with spinach, banana, almond milk, and protein powder",
+            "Snack: Hard-boiled eggs",
+            "Lunch: Quinoa salad with mixed vegetables and lemon vinaigrette",
+            "Snack: Edamame",
+            "Dinner: Baked chicken breast with sweet potato and steamed green beans",
+            "Snack: Greek yogurt with honey"
+          ]
+        },
+        {
+          "Day": "Thursday",
+          "Meals": [
+            "Breakfast: Whole grain cereal with milk and sliced strawberries",
+            "Snack: Trail mix",
+            "Lunch: Lentil soup with whole wheat bread",
+            "Snack: Orange slices",
+            "Dinner: Grilled steak with roasted potatoes and sautéed spinach",
+            "Snack: Protein shake"
+          ]
+        },
+        {
+          "Day": "Friday",
+          "Meals": [
+            "Breakfast: Avocado toast with poached eggs",
+            "Snack: Mixed berries",
+            "Lunch: Chickpea salad with mixed greens, tomatoes, cucumbers, and lemon tahini dressing",
+            "Snack: Rice cakes with almond butter",
+            "Dinner: Baked cod with quinoa and roasted Brussels sprouts",
+            "Snack: Greek yogurt with granola"
+          ]
+        },
+        {
+          "Day": "Saturday",
+          "Meals": [
+            "Breakfast: Whole wheat pancakes with fresh fruit and a side of Greek yogurt",
+            "Snack: Carrot sticks with hummus",
+            "Lunch: Grilled chicken wrap with whole wheat tortilla, lettuce, tomato, and avocado",
+            "Snack: Mixed nuts",
+            "Dinner: Stir-fried tofu with brown rice and mixed vegetables",
+            "Snack: Cottage cheese with berries"
+          ]
+        },
+        {
+          "Day": "Sunday",
+          "Meals": [
+            "Breakfast: Vegetable scramble with whole wheat toast",
+            "Snack: Greek yogurt with sliced almonds",
+            "Lunch: Quinoa bowl with roasted vegetables, chickpeas, and tahini dressing",
+            "Snack: Celery sticks with peanut butter",
+            "Dinner: Grilled salmon with quinoa and steamed asparagus",
+            "Snack: Hard-boiled eggs"
+          ]
+        }
+      ]
+    },
+    {
+      "Week": 4,
+      "Days": [
+        {
+          "Day": "Monday",
+          "Meals": [
+            "Breakfast: Oatmeal with berries and a side of Greek yogurt",
+            "Snack: Apple slices with almond butter",
+            "Lunch: Grilled chicken salad with mixed greens, tomatoes, cucumbers, and balsamic vinaigrette",
+            "Snack: Carrot sticks with hummus",
+            "Dinner: Baked salmon with quinoa and steamed broccoli",
+            "Snack: Mixed nuts"
+          ]
+        },
+        {
+          "Day": "Tuesday",
+          "Meals": [
+            "Breakfast: Vegetable omelette with whole wheat toast",
+            "Snack: Greek yogurt with sliced almonds",
+            "Lunch: Turkey wrap with whole wheat tortilla, lettuce, tomato, and mustard",
+            "Snack: Celery sticks with peanut butter",
+            "Dinner: Grilled shrimp with brown rice and roasted asparagus",
+            "Snack: Cottage cheese with berries"
+          ]
+        },
+        {
+          "Day": "Wednesday",
+          "Meals": [
+            "Breakfast: Smoothie with spinach, banana, almond milk, and protein powder",
+            "Snack: Hard-boiled eggs",
+            "Lunch: Quinoa salad with mixed vegetables and lemon vinaigrette",
+            "Snack: Edamame",
+            "Dinner: Baked chicken breast with sweet potato and steamed green beans",
+            "Snack: Greek yogurt with honey"
+          ]
+        },
+        {
+          "Day": "Thursday",
+          "Meals": [
+            "Breakfast: Whole grain cereal with milk and sliced strawberries",
+            "Snack: Trail mix",
+            "Lunch: Lentil soup with whole wheat bread",
+            "Snack: Orange slices",
+            "Dinner: Grilled steak with roasted potatoes and sautéed spinach",
+            "Snack: Protein shake"
+          ]
+        },
+        {
+          "Day": "Friday",
+          "Meals": [
+            "Breakfast: Avocado toast with poached eggs",
+            "Snack: Mixed berries",
+            "Lunch: Chickpea salad with mixed greens, tomatoes, cucumbers, and lemon tahini dressing",
+            "Snack: Rice cakes with almond butter",
+            "Dinner: Baked cod with quinoa and roasted Brussels sprouts",
+            "Snack: Greek yogurt with granola"
+          ]
+        },
+        {
+          "Day": "Saturday",
+          "Meals": [
+            "Breakfast: Whole wheat pancakes with fresh fruit and a side of Greek yogurt",
+            "Snack: Carrot sticks with hummus",
+            "Lunch: Grilled chicken wrap with whole wheat tortilla, lettuce, tomato, and avocado",
+            "Snack: Mixed nuts",
+            "Dinner: Stir-fried tofu with brown rice and mixed vegetables",
+            "Snack: Cottage cheese with berries"
+          ]
+        },
+        {
+          "Day": "Sunday",
+          "Meals": [
+            "Breakfast: Vegetable scramble with whole wheat toast",
+            "Snack: Greek yogurt with sliced almonds",
+            "Lunch: Quinoa bowl with roasted vegetables, chickpeas, and tahini dressing",
+            "Snack: Celery sticks with peanut butter",
+            "Dinner: Grilled salmon with quinoa and steamed asparagus",
+            "Snack: Hard-boiled eggs"
+          ]
+        }
+      ]
+    }
+  ]
+}
